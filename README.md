@@ -2,7 +2,7 @@
 
 This repository contains 3 Excel VBA macros developed to streamline Purchase Requisition (PR) processing in SAP. These tools are designed to reduce manual workload, minimize human errors, and improve process efficiency.
 
-## 🔧 Features
+## Features
 
 ### 1. `Create_PR()`
 Automatically creates new Purchase Requisitions (PRs) in a standardized format based on input data. This macro prepares the data for upload or direct use in SAP, reducing repetitive manual entry.
@@ -15,7 +15,7 @@ Automatically closes or flags PRs that have been use, preventing backlog and mai
 
 ---
 
-## 📂 Files
+## Files
 
 | File Name             | Description                            |
 |----------------------|----------------------------------------|
@@ -25,7 +25,7 @@ Automatically closes or flags PRs that have been use, preventing backlog and mai
 
 ---
 
-## 🧠 Why It Matters
+## Why It Matters
 
 These tools were built based on real-world experience handling SAP PR flows and Excel-based PR creation. By automating repetitive steps, they:
 
